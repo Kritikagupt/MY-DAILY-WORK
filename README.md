@@ -27,5 +27,5 @@ This repository contains all the tasks completed as part of my **Machine Learnin
 ---
 
 ## 👩‍💻 Author
-**Tanishka**  
+**Kritika Gupta**  
 BCA Student | Data Science Intern  
