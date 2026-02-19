@@ -1,0 +1,9 @@
+Python 
+Numpy
+Matplotlib
+Scikit learn
+Nltk
+Textblob
+Scipy
+Seaborn
+
