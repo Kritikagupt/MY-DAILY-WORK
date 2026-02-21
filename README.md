@@ -17,14 +17,6 @@ This repository contains all the tasks completed as part of my **Machine Learnin
 
 ---
 
-## 🚀 Technologies Used
-- Python
-- Machine Learning
-- Natural Language Processing
-- Scikit-learn
-- NLTK
-
----
 
 ### 🔹 Task 1: Credit Card Prediction
 - Built an NLP-based machine learning model to predict movie genres using plot summaries.
@@ -33,6 +25,16 @@ This repository contains all the tasks completed as part of my **Machine Learnin
 - Evaluated models using accuracy, precision, recall, and F1-score.
 
 📂 Folder: `Task-2-Credit-card-prediction`
+---
+
+
+
+## 🚀 Technologies Used
+- Python
+- Machine Learning
+- Natural Language Processing
+- Scikit-learn
+- NLTK
 
 ## 👩‍💻 Author
 **Kritika Gupta**  
