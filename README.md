@@ -26,6 +26,14 @@ This repository contains all the tasks completed as part of my **Machine Learnin
 
 ---
 
+### 🔹 Task 1: Credit Card Prediction
+- Built an NLP-based machine learning model to predict movie genres using plot summaries.
+- Used TF-IDF for feature extraction.
+- Implemented  Logistic Regression,Decision Tree and Randomforest.
+- Evaluated models using accuracy, precision, recall, and F1-score.
+
+📂 Folder: `Task-2-Credit-card-prediction`
+
 ## 👩‍💻 Author
 **Kritika Gupta**  
 BCA Student | Data Science Intern  
